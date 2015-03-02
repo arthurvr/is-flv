@@ -2,7 +2,7 @@
   "name": "is-flv",
   "description": "Check if a Buffer/Uint8Array is an FLV video",
   "author": "Arthur Verschaeve",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "directories": {
     "test": "test"
