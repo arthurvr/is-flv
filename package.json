@@ -1,0 +1,37 @@
+{
+  "name": "is-flv",
+  "description": "Check if a Buffer/Uint8Array is an FLV video",
+  "author": "Arthur Verschaeve",
+  "version": "0.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": "arthurvr/is-flv",
+  "keywords": [
+    "flv",
+    "video",
+    "vid",
+    "movie",
+    "graphics",
+    "detect",
+    "buffer",
+    "detection",
+    "check",
+    "is",
+    "uint8array",
+    "magic number"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurvr/is-flv/issues"
+  },
+  "homepage": "https://github.com/arthurvr/is-flv",
+  "devDependencies": {
+    "mocha": "*",
+    "read-chunk": "^1.0.1"
+  }
+}
