@@ -9,8 +9,10 @@ function check(filename) {
 
 test('should return true when passing an flv', function (t) {
 	t.true(check('test/fixture.flv'));
+	t.end();
 });
 
 test('should return false when not passing an flv', function (t) {
 	t.false(check('test/fixture.avi'));
+	t.end();
 });

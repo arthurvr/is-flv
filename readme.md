@@ -1,4 +1,4 @@
-# is-flv [![Build Status](https://secure.travis-ci.org/arthurvr/is-flv.png?branch=master)](https://travis-ci.org/arthurvr/is-flv)
+# is-flv [![Build Status](https://travis-ci.org/arthurvr/is-flv.svg?branch=master)](https://travis-ci.org/arthurvr/is-flv)
 
 > Check if a Buffer/Uint8Array is an FLV video
 
