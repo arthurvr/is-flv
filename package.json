@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": "arthurvr/is-flv",
   "scripts": {
-    "test": "mocha test"
+    "test": "xo && mocha test"
   },
   "keywords": [
     "flv",
@@ -25,6 +25,12 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "*",
+    "xo": "*",
     "read-chunk": "^1.0.1"
+  },
+  "xo": {
+    "envs": [
+      "mocha"
+    ]
   }
 }
