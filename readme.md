@@ -2,11 +2,13 @@
 
 > Check if a Buffer/Uint8Array is an FLV video
 
-## Installation
 
-```bash
+## Install
+
+```
 $ npm install --save is-flv
 ```
+
 
 ## Usage
 
@@ -19,6 +21,7 @@ isFlv(buffer);
 //=> true
 ```
 
+
 ## License
 
-MIT
+MIT © [Arthur Verschaeve](http://arthurverschaeve.be)

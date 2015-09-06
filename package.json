@@ -4,13 +4,10 @@
   "author": "Arthur Verschaeve",
   "version": "1.0.0",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
+  "repository": "arthurvr/is-flv",
   "scripts": {
     "test": "mocha test"
   },
-  "repository": "arthurvr/is-flv",
   "keywords": [
     "flv",
     "video",
@@ -26,10 +23,6 @@
     "magic number"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/arthurvr/is-flv/issues"
-  },
-  "homepage": "https://github.com/arthurvr/is-flv",
   "devDependencies": {
     "mocha": "*",
     "read-chunk": "^1.0.1"
