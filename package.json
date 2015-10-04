@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": "arthurvr/is-flv",
   "scripts": {
-    "test": "xo && node test/test.js"
+    "test": "xo && ava"
   },
   "keywords": [
     "flv",
