@@ -13,9 +13,9 @@ $ npm install --save is-flv
 ## Usage
 
 ```js
-var readChunk = require('read-chunk'); // npm install read-chunk
-var isFlv = require('is-flv');
-var buffer = readChunk.sync('video.flv', 0, 4);
+const readChunk = require('read-chunk'); // npm install read-chunk
+const isFlv = require('is-flv');
+const buffer = readChunk.sync('video.flv', 0, 4);
 
 isFlv(buffer);
 //=> true
